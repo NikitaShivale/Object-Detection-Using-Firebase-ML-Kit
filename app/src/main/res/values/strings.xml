@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Object_Detection</string>
+    <string name="point_the_camera_at_an_object_to_get_started">Point the camera at an object to get started</string>
+</resources>

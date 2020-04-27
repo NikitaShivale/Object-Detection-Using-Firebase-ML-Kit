@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881950050007",
+    "firebase_url": "https://object-detection-73ab2.firebaseio.com",
+    "project_id": "object-detection-73ab2",
+    "storage_bucket": "object-detection-73ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881950050007:android:c40a259b7b82d63b3d9292",
+        "android_client_info": {
+          "package_name": "com.example.object_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881950050007-0o4nto3hiruv4u083vqot2bihr4b43gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_0f60mbeFJjZzL4Y5dZKr9K4-9TWoN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881950050007-0o4nto3hiruv4u083vqot2bihr4b43gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
